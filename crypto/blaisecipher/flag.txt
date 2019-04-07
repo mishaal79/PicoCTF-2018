@@ -1,0 +1,3 @@
+Blaise cipher is aka Vigenere cipher
+It is a polyalphabetic cipher which uses a key and the alphabet to encrypt and decrypt a message.
+flag - picoctf{v1gn3r3_c1ph3rs_ar3n7_bad_901e13a1}

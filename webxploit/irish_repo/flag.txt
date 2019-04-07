@@ -1,0 +1,9 @@
+Irish repo
+
+Its an sql injection vulnerability
+Use burpsuite to intercept the get request then modify the params
+The debug param set to 1 returns the sql select command used for the login
+select command has a AND operator
+therefore perform a sql injection for the select command's AND operator to accepts true valueand login to system
+
+

@@ -1,0 +1,9 @@
+This is a web exploitation
+The vulnerability is tampering with session cookies.
+The server expects a specific cookie to give admin access
+
+Steps
+1. Use burpsuite to intercept the get request
+2. Send it to the repeater
+3. Modify the get request's cookies to allow admin access
+4. Try guessing until you get a response with the flag

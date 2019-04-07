@@ -1,0 +1,1 @@
+Change the user agent string of the browser to a google bot to obtain the flag

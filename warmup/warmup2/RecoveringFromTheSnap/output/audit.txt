@@ -1,0 +1,24 @@
+
+Scalpel version 1.60 audit file
+Started at Mon Dec 17 20:12:54 2018
+Command line:
+scalpel -o output animals.dd 
+
+Output directory: /root/ctf/pico18/warmup/warmup2/RecoveringFromTheSnap/output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "(null)"
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+00000007.jpg      3000832		NO            40384		animals.dd
+00000006.jpg      2607616		NO           433600		animals.dd
+00000005.jpg      2136576		NO           904640		animals.dd
+00000004.jpg      1812992		NO          1228224		animals.dd
+00000003.jpg      1556992		NO          1484224		animals.dd
+00000002.jpg      1165824		NO          1875392		animals.dd
+00000001.jpg       672256		NO          2368960		animals.dd
+00000000.jpg        39424		NO          3001792		animals.dd
+
+
+Completed at Mon Dec 17 20:12:54 2018
